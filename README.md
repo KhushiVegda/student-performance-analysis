@@ -6,7 +6,7 @@ This project analyzes student performance using Python.
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
 
 ## Analysis
 - Average final grade
